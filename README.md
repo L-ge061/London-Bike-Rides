@@ -11,6 +11,7 @@ The challenge is to understand:
 
 This project aims to analyze and visualize the **London Bike Sharing Dataset** to uncover patterns and trends that can guide better operational and strategic decisions.
 
+---
 
 ## Overview
 This project explores the **London Bike Sharing Dataset** (Kaggle) to understand demand patterns and external factors affecting bike usage.  
