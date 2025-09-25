@@ -1,6 +1,13 @@
 # London Bike Sharing Analysis
 Dataset Source: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
+
+## Overview
+This project will explore the **London Bike Sharing Dataset** (Kaggle) to understand demand patterns and external factors affecting bike usage.  
+The workflow combines **Python (data cleaning & preparation)** and **Tableau (interactive dashboard)** to uncover trends in seasonality, weather impact, and rider behavior.  
+
+---
+
 ## Problem Statement
 Bike sharing systems provide an eco-friendly and efficient transportation alternative in major cities.  
 However, **demand for shared bikes fluctuates heavily** depending on factors such as **weather, season, temperature, and time of day**.  
@@ -10,12 +17,6 @@ The challenge is to understand:
 - What insights operators can use to improve **bike availability, maintenance scheduling, and customer satisfaction**.  
 
 This project aims to analyze and visualize the **London Bike Sharing Dataset** to uncover patterns and trends that can guide better operational and strategic decisions.
-
----
-
-## Overview
-This project explores the **London Bike Sharing Dataset** (Kaggle) to understand demand patterns and external factors affecting bike usage.  
-The workflow combines **Python (data cleaning & preparation)** and **Tableau (interactive dashboard)** to uncover trends in seasonality, weather impact, and rider behavior.  
 
 ---
 
