@@ -1,9 +1,10 @@
 # London Bike Sharing Analysis
 Dataset Source: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
+* 2015-2016 data for bike sharing in London (TfL Open Data)
 
 
 ## Overview
-This project will explore the **London Bike Sharing Dataset** (Kaggle) to understand demand patterns and external factors affecting bike usage.  
+This project explores the **London Bike Sharing Dataset** to understand demand patterns and external factors affecting bike usage.  
 The workflow combines **Python (data cleaning & preparation)** and **Tableau (interactive dashboard)** to uncover trends in seasonality, weather impact, and rider behavior.  
 
 ---
